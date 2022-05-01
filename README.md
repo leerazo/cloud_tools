@@ -1,5 +1,5 @@
 # Cloud resource management tools
-This repository is a work in progress. This is where I am developing some basdic custom tools for working with AWS and GCP resources using Python.
+This repository is a work in progress. This is where I am developing some basic custom tools for working with AWS and GCP resources using Python.
 
 What you find here may or may not be useful (and may or may not be working) but are freely available nonetheless.
 
